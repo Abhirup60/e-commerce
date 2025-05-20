@@ -13,14 +13,14 @@ This is a dynamic E-commerce website built using PHP and MySQL. It features user
 
 ## ✨ Features
 
-### User Side:
+### User Side (Under Development):
 - User registration and login system
 - Product catalog with categories and search functionality
 - Add to cart and cart management
 - Order checkout and confirmation
 - Responsive design for mobile and desktop
 
-### Admin Panel:
+### Admin Panel (Under Development):
 - Admin login authentication
 - Add, update, and delete products
 - View and manage customer orders
