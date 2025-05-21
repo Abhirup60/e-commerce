@@ -2,7 +2,7 @@
 
 ## 📦 Project Overview
 
-This is a dynamic E-commerce website built using PHP and MySQL. It features user registration, product browsing, cart management, and order processing functionalities. The website provides a clean, responsive interface for both users and admins to interact with products and manage sales effectively.
+This is a dynamic E-commerce website built using PHP and MySQL. It features user registration, product browsing, cart management, and order processing functionalities. The website provides a clean, responsive interface for both users and admins to interact with products and manage sales effectively.Click here to see<a href="https://shopease.lovestoblog.com/">LIVE</a>.
 
 ## 🛠️ Technologies Used
 
